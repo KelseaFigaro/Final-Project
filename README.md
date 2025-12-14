@@ -18,3 +18,5 @@ FinalProjectPlots.ipynb- Jupyter notebook containing the plot creation and analy
 Wolf.csv- csv file of the uncleaned data
 
 WolfClean.csv- csv file of the cleaned data
+
+Wolf Populations in Denali National Park in Alaska.pptx- powerpoint presentation covering the methods, findings, and future questions
