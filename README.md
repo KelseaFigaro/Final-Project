@@ -9,7 +9,7 @@ The purpose of this project is to use jupyter notebooks to clean, plot, and anal
 
 This repository contains:
 
-Final Project Summary.pdf- a one page summary containing the purpose of the project, the questions asked, the results, recommendations for furture work and analysis
+Final Project Summary.pdf- a one page summary containing the purpose of the project, the questions asked, the results, and recommendations for furture work and analysis
 
 FinalProjectEDA.ipynb- Jupyter notebook containing the data cleaning process
 
