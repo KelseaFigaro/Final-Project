@@ -8,3 +8,13 @@ The purpose of this project is to use jupyter notebooks to clean, plot, and anal
 4) What is the most common distribution of wolf counts in the spring, is there a difference in the fall?
 
 This repository contains:
+
+Final Project Summary.pdf- a one page summary containing the purpose of the project, the questions asked, the results, recommendations for furture work and analysis
+
+FinalProjectEDA.ipynb- Jupyter notebook containing the data cleaning process
+
+FinalProjectPlots.ipynb- Jupyter notebook containing the plot creation and analysis
+
+Wolf.csv- csv file of the uncleaned data
+
+WolfClean.csv- csv file of the cleaned data
